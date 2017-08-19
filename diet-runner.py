@@ -10,4 +10,3 @@ from diet.diet import main
 
 if __name__ == '__main__':
     main()
-
